@@ -1,0 +1,34 @@
+{
+	"guid": "bookshop-bpm-simple",
+	"repository": {
+		"type": "git",
+		"branch": "master",
+		"url": "https://github.com/dirigiblelabs/demo-eclipsecon2018-bpm.git"
+	},
+	"dependencies": [{
+		"guid": "bookshop",
+		"type": "git",
+		"url": "https://github.com/dirigiblelabs/demo-eclipsecon2018-edm-bookshop.git",
+		"branch": "master"
+	}, {
+		"guid": "bookshop-data",
+		"type": "git",
+		"url": "https://github.com/dirigiblelabs/demo-eclipsecon2018-edm-bookshop-data.git",
+		"branch": "master"
+	}, {
+		"guid": "bookshop-extension",
+		"type": "git",
+		"url": "https://github.com/dirigiblelabs/demo-eclipsecon2018-edm-bookshop-extension.git",
+		"branch": "master"
+	}, {
+		"guid": "bookshop-marketplace",
+		"type": "git",
+		"url": "https://github.com/dirigiblelabs/demo-eclipsecon2018-edm-bookshop-marketplace.git",
+		"branch": "master"
+	}, {
+		"guid": "bookshop-print-on-demand",
+		"type": "git",
+		"url": "https://github.com/dirigiblelabs/demo-eclipsecon2018-bpm-bookshop-print-on-demand.git",
+		"branch": "master"
+	}]
+}
