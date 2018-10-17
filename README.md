@@ -2,7 +2,7 @@
 ![Dirigible Version](https://img.shields.io/badge/dirigible%20version-3.x-green.svg) [![Run on Dirigible](https://img.shields.io/badge/run%20on-dirigible-blue.svg)](http://dirigible.eclipse.org/services/v3/web/ide-deploy-manager/index.html?repository=https://github.com/dirigiblelabs/demo-eclipsecon2018-bpm.git&uri=/services/v3/web/bookshop/)
 
 ## Overview
-_**Print on Demand**_ process for the bookshop demo application
+_**Print on Demand**_ process for the bookshop demo application:
 
 ![Entity Data Model](bookshop-bpm-simple/img/process.png) 
 
